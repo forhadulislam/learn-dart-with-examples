@@ -9,6 +9,10 @@ Here are the list of examples:
     3. Data types
 
 
+### How to run examples
 
+You can run the example files if you have Dart installed in your system. Here is an example of doing that - 
+
+    `dart 01.Basics/example.dart`
 
 Tested on: Dart VM version 2.7.2
