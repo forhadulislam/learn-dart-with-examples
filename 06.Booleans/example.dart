@@ -1,5 +1,4 @@
 main() {
-
   bool myBool = true;
   bool emptyBool;
   print(myBool);
@@ -8,5 +7,4 @@ main() {
   bool isEqual;
   isEqual = (7 == 9);
   print(isEqual);
-  
 }

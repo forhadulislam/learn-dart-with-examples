@@ -48,6 +48,9 @@ Here are the list of examples:
     42. Hash
     43. Http server
     44. Http client
+    45. HTML
+    46. Unit testing
+    47. Async
 
 
 ### How to run the examples
