@@ -12,14 +12,14 @@ Here are the list of examples:
     6. Booleans
     7. Enums
     8. Maps
-    9. Hashmap
+    9. Hashmap and Hashset
     10. Queue
     11. List
     12. Set
     13. If/Else
     14. Switch
     15. Loops
-    16. Do while & While loop
+    16. Do while and While loop
     17. Break & Continue
     18. For each
     19. Functions & function expression
