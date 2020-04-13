@@ -18,7 +18,7 @@ Here are the list of examples:
     12. Set
     13. If/Else
     14. Switch
-    15. Loops
+    15. For Loop
     16. Do while and While loop
     17. Break & Continue
     18. For each
