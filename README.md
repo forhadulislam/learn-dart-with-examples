@@ -22,7 +22,7 @@ Here are the list of examples:
     16. Do while and While loop
     17. Break & Continue
     18. For each
-    19. Functions & function expression
+    19. Function & Function expression
     20. Function parameters (Named, default)
     21. Class
     22. Inheritance
